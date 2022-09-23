@@ -3,7 +3,7 @@
 
 I'm doing a full stack bootcam 💻
 
-I have some hobbies: playing video games🎮, paddle 🥎 and the football ⚽
+I have some hobbies: playing video games🎮, paddle 🥎 and football ⚽
 
 You can find me at:
 
