@@ -1,5 +1,5 @@
 ### Hi there 👋
-🙋‍♂️ I am Daniel 
+### I am Daniel 🙋‍♂️
 
 I'm doing a full stack bootcamp 💻
 
