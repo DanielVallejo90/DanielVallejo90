@@ -11,7 +11,7 @@ You can find me at:
  
  https://www.instagram.com/danivallejo90/
  
- www.linkedin.com/in/daniel-vallejo-sánchez-
+ https://www.linkedin.com/in/daniel-vallejo-sánchez-
 
 <!--
 **DanielVallejo90/DanielVallejo90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
