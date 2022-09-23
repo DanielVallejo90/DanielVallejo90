@@ -1,4 +1,17 @@
 ### Hi there 👋
+🙋‍♂️ I am Daniel 
+
+I'm doing a full stack bootcam 💻
+
+I have some hobbies: playing video games🎮, paddle 🥎 and the football ⚽
+
+You can find me at:
+
+ https://twitter.com/DanielVS90
+ 
+ https://www.instagram.com/danivallejo90/
+ 
+ www.linkedin.com/in/daniel-vallejo-sánchez-
 
 <!--
 **DanielVallejo90/DanielVallejo90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
