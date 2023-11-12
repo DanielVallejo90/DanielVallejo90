@@ -1,7 +1,9 @@
 ### Hi there 👋
 ### I am Daniel 🙋‍♂️
 
-I'm doing a full stack bootcamp 💻
+I am passionate about software development and technology 💻. 
+I started in the world of programming with the curiosity of understanding how things work 
+and it has evolved into a true passion for creating innovative solutions. 
 
 I have some hobbies : playing video games🎮, paddle 🥎 , crossfit 🏋️‍♂️ and football ⚽
 
