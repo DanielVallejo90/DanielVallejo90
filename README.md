@@ -21,17 +21,8 @@ I'm a **Drupal Junior Developer** with **2 years of professional experience** �
 
 ## 💡 Projects
 Here are some projects I’ve contributed to:  
-- **Project Name 1** – Brief description + [Link](#)  
-- **Project Name 2** – Brief description + [Link](#)  
-- **Project Name 3** – Brief description + [Link](#)  
-
-> Check out all my projects on my [GitHub repositories](https://github.com/tuusuario).
-
----
-
-## 📊 GitHub Stats
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
+- **Mitortuga.es
+- **Socialfood.social
 
 ---
 
