@@ -21,8 +21,8 @@ I'm a **Drupal Junior Developer** with **2 years of professional experience** �
 
 ## 💡 Projects
 Here are some projects I’ve contributed to:  
-- **Mitortuga.es
-- **Socialfood.social
+- Mitortuga.es
+- Socialfood.social
 
 ---
 
