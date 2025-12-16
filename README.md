@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Daniel
+# Hi there 👋, I'm Daniel.
 
 I'm a **Drupal Junior Developer** with **2 years of professional experience** 💻. My journey started with curiosity about how things work, and now I create **innovative solutions** that make an impact.
 
