@@ -30,7 +30,7 @@ Some projects I have contributed to:
 - Playing video games 🎮  
 - Paddle 🥎  
 - CrossFit 🏋️‍♂️  
-- Football ⚽  
+
 
 ---
 
