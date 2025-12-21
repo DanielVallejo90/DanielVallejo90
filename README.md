@@ -37,6 +37,5 @@ Some projects I have contributed to:
 ---
 
 ## 📫 Connect with Me
-- [Twitter](https://twitter.com/DanielVS90)  
-- [Instagram](https://www.instagram.com/danivallejo90/)  
-- [LinkedIn](https://www.linkedin.com/in/daniel-vallejo-s%C3%A1nchez-)
+- [Twitter](https://twitter.com/DanielVS90) 
+- [LinkedIn](https://www.linkedin.c haom/in/daniel-vallejo-s%C3%A1nchez-)
