@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=160&text=Daniel%20Vallejo&fontSize=40)
 
-# Hi there 👋, I'm Daniel
+# Hi there 👋, I'm Daniel.
 
 I'm a **Drupal Junior Developer** with **2 years of professional experience** 💻.I started by trying to understand how things work, and now I focus on creating real, functional solutions..
 
