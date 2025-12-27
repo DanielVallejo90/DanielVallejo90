@@ -30,7 +30,7 @@ Some projects I have contributed to:
 
 ## ⚡ Hobbies
 - Playing video games 🎮  
-- Paddle 🥎  
+- Tech 🤖 
 - CrossFit 🏋️‍♂️
 - JiuJitsu 🥋
 
