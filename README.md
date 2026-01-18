@@ -1,4 +1,4 @@
-[Header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=160&text=Daniel%20Vallejo&fontSize=40)
+![Header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=160&text=Daniel%20Vallejo&fontSize=40)
 
 # Hi there 👋, I'm Daniel
 
