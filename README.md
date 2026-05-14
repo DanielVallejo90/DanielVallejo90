@@ -2,8 +2,8 @@
 
 # Hi there 👋, I'm Daniel.
 
-I'm a **Drupal Junior Developer** with **2 years of professional experience** 💻.I started by trying to understand how things work, and now I focus on creating real, functional solutions..
-
+I'm a Drupal Developer with 2+ years of professional experience 💻.
+I started by trying to understand how things work, and now I build real, functional solutions for clients as a freelance developer.
 ---
 
 ## 🚀 About Me
